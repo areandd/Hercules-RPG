@@ -13,9 +13,9 @@ Lernaean Hydra, and capture the guard dog of the underworld—Cerberus.
 
 Features:  
 As a developer, I want to make at least five commits with descriptive messages. 
-As a developer, I want to use an Attack() function that will terminate when Hercules 
+As a developer, I want to use an attack() function that will terminate when Hercules 
 or an enemy’s health reaches zero. 
-As a developer, I want my RunGame() function to call my other functions in a logical
+As a developer, I want my runGame() function to call my other functions in a logical
 order that will determine game flow.
 As a developer, I want all of my functions to have a Single 
 Responsibility. Remember, each function should do just one thing!
